@@ -1,2 +1,1 @@
-# project
-hello world
+# Guess-the-number-using-Python
